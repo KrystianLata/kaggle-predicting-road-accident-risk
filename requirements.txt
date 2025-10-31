@@ -1,0 +1,19 @@
+# Core data science libraries
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+lazypredict
+
+# Jupyter
+jupyter
+ipykernel
+
+# Optional but useful
+# lightgbm==4.1.0
+# xgboost==2.0.3
