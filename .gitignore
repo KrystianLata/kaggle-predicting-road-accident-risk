@@ -1,0 +1,6 @@
+# files
+logs.log
+notebooks/submission.csv
+
+# directories
+/venv
